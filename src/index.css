@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-text: "Montserrat", sans-serif;
+  --font-title: "Elsie Swash Caps", serif;
+  --color-white-100: #f8f8f8;
+  --color-yellow-nl: #ffcb47;
+}
+
+body {
+  margin: 0 260px 0 260px;
+  background: #f8f8f8;
+}
